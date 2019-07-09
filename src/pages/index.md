@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: JAMSTACK PAGE Great coffee with a conscience
 image: /img/home-jumbotron.jpg
 heading: DEV BRANCH DEPLOYMENT
 subheading: Support sustainable farming while enjoying a cup
